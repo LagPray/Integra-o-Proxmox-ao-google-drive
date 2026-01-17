@@ -146,9 +146,9 @@ Assim que clicar em “adicionar”, preencha os campos de acordo com a imagem a
 
 ### __2.0 - Comandos uteis.__
 
-rclone move /mnt/gdrive/ProxmoxQueVoceQuer/NomeDoArquivo+extensão gdrive:backup_prox/ProxmoxQueVoceQuer
+__rclone move /mnt/gdrive/ProxmoxQueVoceQuer/NomeDoArquivo+extensão gdrive:backup_prox/ProxmoxQueVoceQuer__
 Move do servidor para o Drive.
 
 
-rclone move gdrive:backup_prox/ProxmoxQueVoceQuerNome/DoArquivo+extensão /mnt/gdrive/ProxmoxQueVoceQuer
+__rclone move gdrive:backup_prox/ProxmoxQueVoceQuerNome/DoArquivo+extensão /mnt/gdrive/ProxmoxQueVoceQuer__
 Move do Drive para o servidor.
