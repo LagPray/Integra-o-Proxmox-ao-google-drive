@@ -1,5 +1,9 @@
 # __Integra-o-Proxmox-ao-google-drive__
 
+## __Notas de esclarecimento__
+*Essa documentação é funcional a partir da versão 8.0 do proxmox* <br> <br>
+*O conteúdo da documentação abaixo é projetado para o idioma "Português - português brasileiro". Alguns nomes dentro do PVE podem ser diferentes em outros idiomas.* <br> <br>
+
 ### __1- Acesso à interface de linha de comando.__
 
 O primeiro passo é acessar o PVE(Proxmox web).
