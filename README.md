@@ -42,8 +42,8 @@ __Use auto-config:__ n (Pressione Enter)<br>
 
 O sistema agora deve pedir um token. Esse token é exclusivo de cada ligação com cada conta. Para conseguir o token, siga o passo a passo abaixo com muita atenção!<br>
 
-1.1.3 - Obtenção do token.<br>
-	1.1.3.2 - Necessário apenas na primeira vez que for executar o procedimento no seu próprio computador.<br>
+### __1.1.3 - Obtenção do token.__<br>
+__1.1.3.2__ - Necessário apenas na primeira vez que for executar o procedimento no seu próprio computador.<br>
 
 No seu computador agora, acesse: [https://rclone.org/downloads/](https://rclone.org/downloads/) <br>
 Desça a tela um pouco até aparecer uma tabela com opções de download. Se estiver no Windows, basta clicar na opção destacada na imagem abaixo. Senão, selecione de acordo com seu sistema operacional. <br>
@@ -121,7 +121,7 @@ Fizemos a rua, agora vamos por as placas. Rode o seguinte comando: <br>
 __rclone mount gdrive:"backup_prox" /mnt/gdrive --vfs-cache-mode writes --allow-other --dir-cache-time 2s --daemon__ <br>
 Estabelece uma “placa” de onde fica a pasta que usaremos dentro do drive. <br>
 
-Use o comando ls para confirmar. A saida deve ser essa: <br>
+Use o comando __ls__ para confirmar. A saida deve ser essa: <br>
 ![Confirmando a conexão](img/img16.png) <br>
 
 ### __1.3 - Implantação do backup e aplicação da exclusão de 2 dias.__ 
